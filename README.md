@@ -1,4 +1,4 @@
-# Constrained-Portfolio-Optimisation
+# Constrained Portfolio Optimization in C++
 
 A C++ implementation of portfolio optimisation using historical stock data, subject to user-defined constraints, with support for maximising Sharpe Ratio or meeting a target return.
 
@@ -91,8 +91,8 @@ This generates:
 **Outputs**
   - Efficient Frontier.csv: Risk-return frontier points
   - Efficient Frontier Plot.html: Visualisations
-  - Optimised Weights - *.txt: Best asset weights
-  - Optimised Portfolio - *.csv: Portfolio statistics
+  - *-  Weights.txt: Best asset weights
+  - * - Portfolio.csv: Portfolio statistics
 
 ## 🔍 How it Works
   - **Preprocessing**: Daily Returns.cpp calculates daily log returns.
